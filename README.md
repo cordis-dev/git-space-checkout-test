@@ -1,1 +1,1 @@
-# git-space-checkout-test
+# git-sparse-checkout-test
